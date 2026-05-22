@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Durham
+
+> Geotechnical engineering services in Durham, United States.
+
+## Services
+- [Anchors](https://durham.geotechnical-engineering.vip/anchors/)
+- [Atterberg Limits](https://durham.geotechnical-engineering.vip/atterberg-limits/)
+- [Cbr Road](https://durham.geotechnical-engineering.vip/cbr-road/)
+- [Cpt Test](https://durham.geotechnical-engineering.vip/cpt-test/)
+- [Deep Excavations](https://durham.geotechnical-engineering.vip/deep-excavations/)
+- [Excavation Monitoring](https://durham.geotechnical-engineering.vip/excavation-monitoring/)
+- [Excavations](https://durham.geotechnical-engineering.vip/excavations/)
+- [Flexible Pavement](https://durham.geotechnical-engineering.vip/flexible-pavement/)
+- [Footings](https://durham.geotechnical-engineering.vip/footings/)
+- [Foundations](https://durham.geotechnical-engineering.vip/foundations/)
+- [Grain Size](https://durham.geotechnical-engineering.vip/grain-size/)
+- [Ground Improvement](https://durham.geotechnical-engineering.vip/ground-improvement/)
+- [Grouting](https://durham.geotechnical-engineering.vip/grouting/)
+- [In Situ Permeability](https://durham.geotechnical-engineering.vip/in-situ-permeability/)
+- [Investigation](https://durham.geotechnical-engineering.vip/investigation/)
+- [Lab In Situ](https://durham.geotechnical-engineering.vip/lab-in-situ/)
+- [Laboratory](https://durham.geotechnical-engineering.vip/laboratory/)
+- [Liquefaction](https://durham.geotechnical-engineering.vip/liquefaction/)
+- [Masw](https://durham.geotechnical-engineering.vip/masw/)
+- [Mat Foundations](https://durham.geotechnical-engineering.vip/mat-foundations/)
+- [Piles](https://durham.geotechnical-engineering.vip/piles/)
+- [Proctor Tests](https://durham.geotechnical-engineering.vip/proctor-tests/)
+- [Resistivity](https://durham.geotechnical-engineering.vip/resistivity/)
+- [Retaining Walls](https://durham.geotechnical-engineering.vip/retaining-walls/)
+- [Rigid Pavement](https://durham.geotechnical-engineering.vip/rigid-pavement/)
+- [Road Geotechnics](https://durham.geotechnical-engineering.vip/road-geotechnics/)
+- [Sand Cone Density](https://durham.geotechnical-engineering.vip/sand-cone-density/)
+- [Seismic](https://durham.geotechnical-engineering.vip/seismic/)
+- [Seismic Isolation](https://durham.geotechnical-engineering.vip/seismic-isolation/)
+- [Seismic Microzonation](https://durham.geotechnical-engineering.vip/seismic-microzonation/)
+- [Seismic Refraction](https://durham.geotechnical-engineering.vip/seismic-refraction/)
+- [Slope Stability](https://durham.geotechnical-engineering.vip/slope-stability/)
+- [Slopes](https://durham.geotechnical-engineering.vip/slopes/)
+- [Soft Ground Tunnels](https://durham.geotechnical-engineering.vip/soft-ground-tunnels/)
+- [Spt Drilling](https://durham.geotechnical-engineering.vip/spt-drilling/)
+- [Stone Columns](https://durham.geotechnical-engineering.vip/stone-columns/)
+- [Test Pits](https://durham.geotechnical-engineering.vip/test-pits/)
+- [Triaxial](https://durham.geotechnical-engineering.vip/triaxial/)
+- [Vibrocompaction](https://durham.geotechnical-engineering.vip/vibrocompaction/)
+
+## Contact
+- Website: https://durham.geotechnical-engineering.vip/
+
+## About
+This site provides geotechnical engineering services in Durham, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
